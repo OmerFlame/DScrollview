@@ -67,19 +67,19 @@
 /* Begin PBXFileReference section */
 		00F187B24A3F8F7881FBE461D2E53B86 /* Stack.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Stack.swift; path = TinyConstraints/Classes/Stack.swift; sourceTree = "<group>"; };
 		02BFCE846EC3A4266C1C75945ED6228A /* TinyConstraints-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TinyConstraints-dummy.m"; sourceTree = "<group>"; };
-		036F2D979E9F71A3170922D9FF03FA0C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		101F80991CD3686DA2203311FA49E1A1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		036F2D979E9F71A3170922D9FF03FA0C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		101F80991CD3686DA2203311FA49E1A1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1132AE8257BC2FE8E3EAA938CB9A8F84 /* Abstraction.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Abstraction.swift; path = TinyConstraints/Classes/Abstraction.swift; sourceTree = "<group>"; };
-		121E21C9B35EE6CCC324802D094256A4 /* DScrollView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = DScrollView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		121E21C9B35EE6CCC324802D094256A4 /* DScrollView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = DScrollView.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		128775552CC8A051BC8A90261848FC8E /* DScrollView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DScrollView-umbrella.h"; sourceTree = "<group>"; };
 		171CF923FC9CD7F6F47D183A26FA22D0 /* TinyConstraints-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TinyConstraints-umbrella.h"; sourceTree = "<group>"; };
 		19E6DF6ED19B84C74D313D2CB0BD4167 /* DScrollView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DScrollView.xcconfig; sourceTree = "<group>"; };
 		2000385F7FF817A6716D03C2F507E78F /* Pods-DScrollView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DScrollView_Example-Info.plist"; sourceTree = "<group>"; };
 		23B3DFD17791D51BD67E98C56D1F7742 /* DScrollView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DScrollView.modulemap; sourceTree = "<group>"; };
-		248EB203AE249596FFC55952F5590D95 /* TinyConstraints.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TinyConstraints.framework; path = TinyConstraints.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		248EB203AE249596FFC55952F5590D95 /* TinyConstraints.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TinyConstraints.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		294793EC6135A7187559E9FD7FAC7C09 /* DScrollViewContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DScrollViewContainer.swift; path = Source/DScrollViewContainer.swift; sourceTree = "<group>"; };
 		2FE657E2FB2225B6975C1DBFBC469227 /* Pods-DScrollView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DScrollView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		30F8CE65E3E2594D394BFC3F8CADE94F /* Pods_DScrollView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DScrollView_Example.framework; path = "Pods-DScrollView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		30F8CE65E3E2594D394BFC3F8CADE94F /* Pods_DScrollView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DScrollView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		32C9B64A1BAC9E8301F71EAEF5103BF2 /* TinyConstraints.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TinyConstraints.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		35D519DD576A1E9538885EE22A08FE3B /* Pods-DScrollView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DScrollView_Tests-Info.plist"; sourceTree = "<group>"; };
 		3D05BBA9C5A1A9BFE93F1570B96767E0 /* TinyConstraints+superview.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "TinyConstraints+superview.swift"; path = "TinyConstraints/Classes/TinyConstraints+superview.swift"; sourceTree = "<group>"; };
@@ -101,18 +101,18 @@
 		95AB60EB85ABC6F250BDBFD63AF938C1 /* Pods-DScrollView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DScrollView_Example-dummy.m"; sourceTree = "<group>"; };
 		9B370FFE85239F22140B3D16BBECF9C5 /* TinyConstraints.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TinyConstraints.xcconfig; sourceTree = "<group>"; };
 		9CBFFA44F46F376F2D09C8975F452BEE /* DScrollView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DScrollView-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A6119A3C359624FF85A1BBF679AE36CB /* Pods-DScrollView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DScrollView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		C0A0DA9D6CBE132148E2B249ED2EE1F9 /* Pods-DScrollView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DScrollView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C6D7F9427D774A5F43A2CFCDAA917743 /* Pods-DScrollView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DScrollView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C85D913C5CD5B66E743E07F91094FC85 /* DScrollView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DScrollView-prefix.pch"; sourceTree = "<group>"; };
-		C9C6615DE16FC5A372E00B1FA425C7FA /* DScrollView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DScrollView.framework; path = DScrollView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9C6615DE16FC5A372E00B1FA425C7FA /* DScrollView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DScrollView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA21F48431F0A3062346E36BBB3D6DEA /* Pods-DScrollView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DScrollView_Example.modulemap"; sourceTree = "<group>"; };
 		E2EFB275002A8CF25D8FE9A0515F53FD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		E3660F9820067EFFA868A3B28F348B2C /* DScrollView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DScrollView-dummy.m"; sourceTree = "<group>"; };
 		EB4A887BBDB9E1FC49F586BB67C27658 /* TinyConstraints.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TinyConstraints.swift; path = TinyConstraints/Classes/TinyConstraints.swift; sourceTree = "<group>"; };
 		ED25944C264C4B00DE3D2A351E92FE1D /* TinyConstraints.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TinyConstraints.modulemap; sourceTree = "<group>"; };
-		EF1E0D214C7EED3AB9D2D9967AB00FB8 /* Pods_DScrollView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DScrollView_Tests.framework; path = "Pods-DScrollView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF1E0D214C7EED3AB9D2D9967AB00FB8 /* Pods_DScrollView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DScrollView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7C01C0A5A7F1D95DD4FC4063F64F17A /* TinyEdgeInsets.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TinyEdgeInsets.swift; path = TinyConstraints/Classes/TinyEdgeInsets.swift; sourceTree = "<group>"; };
 		FE0F11F70C9998C34A805702FC38301C /* DScrollView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DScrollView.swift; path = Source/DScrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -307,7 +307,6 @@
 				F7C01C0A5A7F1D95DD4FC4063F64F17A /* TinyEdgeInsets.swift */,
 				364165BECAC30A05A4EE3828FC21CD9D /* Support Files */,
 			);
-			name = TinyConstraints;
 			path = TinyConstraints;
 			sourceTree = "<group>";
 		};
@@ -854,8 +853,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
