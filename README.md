@@ -1,3 +1,7 @@
+<p align="center">
+<img src='https://github.com/rebeloper/DScrollview/blob/master/Example/DScrollView/Images.xcassets/icon.imageset/icon.png' width="200" />
+</p>
+
 # DScrollView
 
 [![CI Status](https://img.shields.io/travis/rebeloper/DScrollView.svg?style=flat)](https://travis-ci.org/rebeloper/DScrollView)
