@@ -17,7 +17,8 @@ let package = Package(
 	targets: [
 		.target(
 			name: "DScrollView",
-			dependencies: []),
+			dependencies: [],
+			path: "Source/"),
 		
 	]
 )
