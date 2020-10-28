@@ -17,7 +17,7 @@ let package = Package(
 	targets: [
 		.target(
 			name: "DScrollView",
-			dependencies: [],
+			dependencies: ["TinyConstraints"],
 			path: "Source/"),
 		
 	]
