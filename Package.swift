@@ -8,9 +8,15 @@ let package = Package(
 	products: [
 		.library(
 			name: "DScrollView",
-			targets: ["DScrollView"]),
+			targets: ["DScrollView"])
 	],
 	dependencies: [
+		.package(url: "https://github.com/roberthein/TinyConstraints", from: "2.0.0")
+	],
+	targets: [
+		.target(
+			name: "DScrollView",
+			dependencies: []),
 		
 	]
 )
